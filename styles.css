@@ -1,0 +1,102 @@
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+ 
+ 
+ body {
+    color: red;
+    background: black; 
+    margin: 0px;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+header {
+     border-bottom: solid 2px rgb(225,225, 225,1);
+     padding: 20px;
+     font-size:32px;
+     color: rgb(225,225,225,1);
+}
+
+section {
+    background: rgb(54, 19, 12);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+h1{
+    font-size: 35px;
+}
+
+p {
+   font-size: 30px;
+}
+
+img {
+    height: 200px;
+
+  }
+
+  .categoria-videos {
+    display: flex;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
